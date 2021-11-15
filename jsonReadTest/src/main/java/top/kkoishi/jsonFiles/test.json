@@ -1,0 +1,8 @@
+{
+  "name" : "jsonTest",
+  "type" : "json",
+  "model" : {
+    "name" : "fuckLzu",
+    "appendContent": "null"
+  }
+}
